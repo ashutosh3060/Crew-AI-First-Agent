@@ -9,4 +9,5 @@ Components
 
 Process - Sequential, Hierarchical
 
-Setup in VS code the project directory and create different
+Setup in VS code the project directory and create different different python files
+Commit and push the code to github
