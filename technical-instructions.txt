@@ -1,1 +1,12 @@
 1 Liner - Crew mobines multi-agnets to perform the task by using the tools either in a sequential or hierarchical Process.
+
+Components
+1. Agents - Who does the task
+2. Tasks - Tasks to be done
+3. Tools - By using which task is done
+4. Crew - Who combines all the 3 components above.
+5. Flows - is a powerful feature designed to streamline the creation and management of AI workflows. Flows allow developers to combine and coordinate coding tasks and Crews efficiently, providing a robust framework for building sophisticated AI automations.
+
+Process - Sequential, Hierarchical
+
+Setup in VS code the project directory and create different
