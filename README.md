@@ -1,1 +1,1 @@
-Crew AI First Project
+Crew AI Project - Using Crew AI agent workflow framework, GPT-4 LLM and Langchain, a multi AI agent solution is built for researching on videos of a specific YouTube channel and create a summary for a given specific topic.
