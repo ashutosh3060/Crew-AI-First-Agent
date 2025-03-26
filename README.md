@@ -5,3 +5,5 @@ There are below important components of building an agent system.
 2. Task
 3. Agent
 4. Crew (Which combines all the above modules or components)
+
+5. Crew AI is free of cost to use. There is also a commercial version for enterprises.
